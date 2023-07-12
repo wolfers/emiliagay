@@ -1,47 +1,26 @@
 ---
-title: Blogpost 1
-pubDate: 11/09/2022 14:25
-author: "Elian Van Cutsem"
+title: The Website Begins
+pubDate: 7/11/2023 15:40
+author: "Emilia"
 tags:
-  - JavaScript
-  - Astro
-  - UnoCSS
+  - Gay
+  - Gunpla
+  - ffxiv
 imgUrl: https://i.imgur.com/iGvihVf.jpg
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: mostly a test post to see how everything works and to learn markdown
 layout: '../../layouts/BlogPost.astro'
 ---
 
-## Deorum petiit ignis
+## What to do with this website
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+I am very sleepy as I write this in the backroom at work. I got here early and will likely have to finish writing this whole thing later. I don't really have any good ideas of what I want to do with this website.
 
-## Iovis late orbem Perseus sunt
+I've considered just posting screenshots from ffxiv, gunpla builds, and other random things I work on. Especially since twitter is dying, I got banned from tiktok for being too young, and I don't really wnat to use another social media account.
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+I could also just focus on making this a palce to put all of my future programming projects. It will probably be a long time before I really have anything interesting to show. I might write a blog post about how things hav egone for me in general, but who knows.
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+## I Am Bad At Blog Posts
 
-## Longum minus sic saepe
+What do I even do, I'm too autistic for this. I guess I jsut don't have anything to say that I think is worth writing down. Especially right now. Maybe I'll have more as I find things to post stuff about. Who knows.
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
-
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
-
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+## ANYWAYS BYE FOR NOW UWU
