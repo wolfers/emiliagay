@@ -15,6 +15,5 @@ export async function get(context) {
       link: `/blog/${post.slug}/`,
     })),
     customData: '<language>en-us</language>',
-    canonicalUrl: 'https://brutal.elian.codes',
   });
 }
